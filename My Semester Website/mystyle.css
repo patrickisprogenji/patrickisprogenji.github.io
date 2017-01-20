@@ -1,0 +1,35 @@
+body {
+	background: rgb(179,205,224);
+	
+}
+p {
+	   font-family: "Courier New", Courier, monospace
+	
+}
+
+h2{
+	font-family: "Lucida Console", Monaco, monospace
+}
+h1{
+	font-family: "Comic Sans MS", cursive, sans-serif
+
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid rgb(1,31,75);
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(1,31,75);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+     
+
+ 
