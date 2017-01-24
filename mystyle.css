@@ -34,9 +34,8 @@ img {
 }
 
 header {
- text-align: center; 
+ text-align: center;
   background: url("images/eh.jpg" alt="eh");
   background-size: cover;
-  color: white;
-}
+  }
 
