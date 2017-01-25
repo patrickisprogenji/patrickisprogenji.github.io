@@ -1,5 +1,5 @@
 body {
-	background: rgb(255,255,255);
+	background: rgb(187,187,187);
 	
 }
 p {
@@ -10,14 +10,16 @@ p {
 
 h2{
 	font-family: "Lucida Console", Monaco, monospace
+	color: rgb(9,238,221)
 }
 h1{
 	font-family: "Comic Sans MS", cursive, sans-serif
-
+	color: rgb(9,238,221)
 }
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
+	color: rgb(9,238,221)
 }
 img {
       margin: 40px 0px 0px 0px;
@@ -25,7 +27,7 @@ img {
     }
     ul {
       padding: 10px;
-      background: rgba(187,187,187);
+      background:rgb(9,238,221);
     }
     li {
       display: inline;
