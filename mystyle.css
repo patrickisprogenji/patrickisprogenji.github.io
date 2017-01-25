@@ -10,11 +10,11 @@ p {
 
 h2{
 	font-family: "Lucida Console", Monaco, monospace
-	color: rgb(9,238,221)
+	
 }
 h1{
 	font-family: "Comic Sans MS", cursive, sans-serif
-	color: rgb(9,238,221)
+	
 }
 li{
 	display: inline;
@@ -27,7 +27,7 @@ img {
     }
     ul {
       padding: 10px;
-      background:rgb(9,238,221);
+      
     }
     li {
       display: inline;
