@@ -10,16 +10,16 @@ p {
 
 h2{
 	font-family: "Lucida Console", Monaco, monospace
-	color:rgb(9,238,221)
+	
 }
 h1{
 	font-family: "Comic Sans MS", cursive, sans-serif
-	text:rgb(9,238,221)
+	
 }
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
-	text:rgb(9,238,221)
+	
 }
 img {
       margin: 40px 0px 0px 0px;
