@@ -16,7 +16,7 @@ h1{
 	font-family: "Comic Sans MS", cursive, sans-serif
 	
 }
-li{
+.stuff{
 	display: inline;
 	padding: 0px 10px 0px 10px;
 	
@@ -40,6 +40,4 @@ header {
   background-size: cover;
 color: rgb(0,171,255)
   }
-.leg{
-text-align: left	
-}
+
