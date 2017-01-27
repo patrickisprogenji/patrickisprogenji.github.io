@@ -1,5 +1,7 @@
 body {
 	background: url(images/ps4.png);
+	background-size: cover;
+	margin: 0 auto;
 	
 }
 p {
